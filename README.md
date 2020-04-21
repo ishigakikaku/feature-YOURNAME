@@ -1,1 +1,1 @@
-# feature-YOURNAME
+echo '__FILE__';
